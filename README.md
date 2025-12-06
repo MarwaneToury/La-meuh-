@@ -18,7 +18,7 @@ Clone ce dépôt ou télécharge le `.zip` en cliquant sur **"Code" → "Downloa
 
 ---
 
-### Compilation :
+### 🐄 Compilation :
 1. Place tous les fichiers dans un même dossier :
    - `main.c`, `resource.h`, `resource.rc`, `compile.bat`
    - `la_meuh.ico`, `marguerite.bmp`
@@ -27,21 +27,21 @@ Clone ce dépôt ou télécharge le `.zip` en cliquant sur **"Code" → "Downloa
 
 ---
 
-### Utilisation :
+### 🐄 Utilisation :
 - Lance `la_meuh.exe`.
 - Clique sur **"Mettre à jour"**.
 - Attends la fin de la progression.
 
 ---
 
-### Informations supplémentaires :
+### 🐄 Informations supplémentaires :
 
 - Si `winget` est absent, un message d'erreur s'affichera.
 - **Aucune dépendance externe** : un seul fichier `.exe` à distribuer !
 
 ---
 
-### Licence :
+### 🐄 Licence :
 [MIT](LICENSE) – Libre d'utiliser, modifier et distribuer.
 
 ---
